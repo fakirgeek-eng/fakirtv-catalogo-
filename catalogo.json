@@ -1,15 +1,52 @@
+
 {
   "items": [
     {
       "title": "Transmisión HLS de prueba",
       "category": "TV EN VIVO",
-      "description": "Señal de demostración para verificar el reproductor de Fakir TV. No es un canal comercial.",
+      "description": "Señal de demostración; no es un canal comercial.",
       "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     },
     {
       "title": "Sintel - Tráiler",
       "category": "PELÍCULAS",
-      "description": "Tráiler de demostración de Sintel.",
+      "genre": "Fantasía",
+      "description": "Tráiler del cortometraje Sintel, de Blender Foundation.",
+      "poster": "https://media.w3.org/2010/05/sintel/poster.png",
+      "image": "https://media.w3.org/2010/05/sintel/poster.png",
+      "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+    },
+    {
+      "title": "Big Buck Bunny - Tráiler",
+      "category": "PELÍCULAS",
+      "genre": "Animación",
+      "description": "Tráiler del cortometraje Big Buck Bunny, de Blender Foundation.",
+      "poster": "https://media.w3.org/2010/05/bunny/poster.png",
+      "image": "https://media.w3.org/2010/05/bunny/poster.png",
+      "url": "https://media.w3.org/2010/05/bunny/trailer.mp4"
+    },
+    {
+      "title": "Sintel - Episodio de prueba 1",
+      "category": "SERIES",
+      "genre": "Fantasía",
+      "series": "Laboratorio Fakir TV",
+      "season": 1,
+      "episode": 1,
+      "description": "Episodio de demostración que utiliza el tráiler de Sintel.",
+      "poster": "https://media.w3.org/2010/05/sintel/poster.png",
+      "image": "https://media.w3.org/2010/05/sintel/poster.png",
+      "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+    },
+    {
+      "title": "Sintel - Episodio de prueba 2",
+      "category": "SERIES",
+      "genre": "Fantasía",
+      "series": "Laboratorio Fakir TV",
+      "season": 1,
+      "episode": 2,
+      "description": "Segundo episodio de demostración para probar el catálogo.",
+      "poster": "https://media.w3.org/2010/05/sintel/poster.png",
+      "image": "https://media.w3.org/2010/05/sintel/poster.png",
       "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
     }
   ]
