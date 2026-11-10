@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Transmisión HLS de prueba",
+      "category": "TV EN VIVO",
+      "description": "Señal de demostración para verificar el reproductor de Fakir TV. No es un canal comercial.",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "title": "Sintel - Tráiler",
+      "category": "PELÍCULAS",
+      "description": "Tráiler de demostración de Sintel.",
+      "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+    }
+  ]
+}
